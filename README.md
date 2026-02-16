@@ -15,9 +15,9 @@
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
   <blockquote>
-  Full-stack software engineer building real-time collaborative platforms.<br><br>
-  Architecture + Manufacturing + Design background.<br><br>
-  AA trained (cybernetics, complexity, buildings).<br><br>
+  Full-stack software engineer building real-time collaborative platforms.<br>
+  Architecture + Manufacturing + Design background.<br>
+  AA trained (cybernetics, complexity, buildings).<br>
   Now shipping production systems at scale.
   </blockquote>
   ---
