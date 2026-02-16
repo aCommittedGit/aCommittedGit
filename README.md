@@ -14,11 +14,11 @@
   ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
-> Full-stack software engineer building real-time collaborative platforms.
-> Architecture + Manufacturing + Design background.
-> AA trained (cybernetics, complexity, buildings).
-> Now shipping production systems at scale.
-
+  <blockquote>
+  Full-stack software engineer building real-time collaborative platforms. Architecture + Manufacturing +
+  Design background. AA trained (cybernetics, complexity, buildings). Now shipping production systems at
+  scale.
+  </blockquote>
   ---
 
   ## Current Projects
