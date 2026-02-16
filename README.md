@@ -16,8 +16,11 @@
 
   <blockquote>
   > Full-stack software engineer building real-time collaborative platforms.
+  >
   > Architecture + Manufacturing + Design background.
+  >
   > AA trained (cybernetics, complexity, buildings).
+  >
   > Now shipping production systems at scale.
   </blockquote>
   ---
