@@ -2,15 +2,13 @@
 
 📍 London | 👨‍💻 Builder | ex Architect (the building kind)
 
-  ![Role](https://img.shields.io/badge/Builder-111111?style=flat-square)
-  ![Focus](https://img.shields.io/badge/AI%20Tools-0ea5e9?style=flat-square)
-  [![Website]https://www.karlherdersch.com/]
-  (Personal Website)
-  [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://
-  linkedin.com/in/yourhandle)
-  [![GitHub](https://img.shields.io/badge/GitHub-aCommittedGit-181717?style=flat-square&logo=github&logoColor=white)]
-  (https://github.com/aCommittedGit)
+![Location](https://img.shields.io/badge/📍-Austin,_TX-1f6feb?style=flat-square)
+![Role](https://img.shields.io/badge/Builder-111111?style=flat-square)
+![Focus](https://img.shields.io/badge/AI%20Tools-0ea5e9?style=flat-square)
+[![Website](https://img.shields.io/badge/Website-karl.codes-2563eb?style=flat-square&logo=googlechrome&logoColor=white)] (https://karl.codes)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https:// linkedin.com/in/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-aCommittedGit-181717?style=flat-square&logo=github&logoColor=white)] (https://github.com/aCommittedGit)
 
   I build practical software and AI-powered tools.
   I care about clean UX, fast iteration, and shipping useful products.
@@ -36,11 +34,4 @@
   - 📚 [`legacy-two`](https://github.com/aCommittedGit/legacy-two) — Research/prototype project.
   - 🧱 [`legacy-three`](https://github.com/aCommittedGit/legacy-three) — Foundational tooling work.
   - 🎯 [`legacy-four`](https://github.com/aCommittedGit/legacy-four) — Past product experiment.
-
-  ---
-
-  ## GitHub Activity
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aCommittedGit&theme=github-
-  compact&hide_border=true)
 
