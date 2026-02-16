@@ -2,8 +2,6 @@
 
 📍 London | 👨‍💻 Builder | ex Architect (the building kind)
 
-  ## Scout badges: 
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +21,7 @@
   Now shipping production systems at scale.
   </blockquote>
 
-  ## Current Projects
+  ### Current Projects
 
   - 🚀 [`project-one`](https://github.com/aCommittedGit/project-one) — Short one-line description of what it does.
   - 🧠 [`project-two`](https://github.com/aCommittedGit/project-two) — Short one-line description of what it does.
@@ -36,7 +34,7 @@
 
   ---
 
-  ## Legacy Work
+  ### Legacy Work
 
   - 🧪 [`legacy-one`](https://github.com/aCommittedGit/legacy-one) — Older but still useful.
   - 📚 [`legacy-two`](https://github.com/aCommittedGit/legacy-two) — Research/prototype project.
