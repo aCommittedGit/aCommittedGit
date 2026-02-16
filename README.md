@@ -22,24 +22,51 @@
   </blockquote>
 
   ---
+ ### Current Projects
 
-  ### Current Projects
-
-  - 🚀 [`project-one`](https://github.com/aCommittedGit/project-one) — Short one-line description of what it does.
-  - 🧠 [`project-two`](https://github.com/aCommittedGit/project-two) — Short one-line description of what it does.
-  - ⚡ [`project-three`](https://github.com/aCommittedGit/project-three) — Short one-line description of what it does.
-  - 🛠️ [`project-four`](https://github.com/aCommittedGit/project-four) — Short one-line description of what it does.
-  - 📦 [`project-five`](https://github.com/aCommittedGit/project-five) — Short one-line description of what it does.
-  - 🔍 [`project-six`](https://github.com/aCommittedGit/project-six) — Short one-line description of what it does.
-  - 🌐 [`project-seven`](https://github.com/aCommittedGit/project-seven) — Short one-line description of what it does.
-  - 🤖 [`project-eight`](https://github.com/aCommittedGit/project-eight) — Short one-line description of what it does.
+  - 🧭 [`MONOid`](https://www.usemonoid.com/) — A builder-focused workspace that unifies tasks, schedules,
+  and reviews from your tools so you can execute without context switching.
+  - 🌿 `Wyrd OS` — A calm operating system for teams who want clarity before velocity.
+  - 🛒 [`Pilfer`](https://www.getpilfer.com/) — Needlist, not just a wish.
+  - 🗺️ `IRL Proximity` — A spatial research surface that turns Are.na blocks into programmable, multiplayer
+  grids.
+  - 🏛️ `IRL Centre` — URL not ready.
+  - 📈 `M³ / TriM` — The control room that turns marketing into a system you can run and commit to.
+  - 🧪 `RBTL` — URL not ready.
+  - 🗃️ `Terminus` — Continuing the work of Warburg’s Bilderatlas Mnemosyne and The Whole Earth Catalog via CLI
+  and IRL.
+  - 🍽️ `METALspoon` — Meal planning for builders: knows your pantry, plans your week, kills decision fatigue.
 
   ---
 
-  ### Legacy Work
+  ### Open Source
 
-  - 🧪 [`legacy-one`](https://github.com/aCommittedGit/legacy-one) — Older but still useful.
-  - 📚 [`legacy-two`](https://github.com/aCommittedGit/legacy-two) — Research/prototype project.
-  - 🧱 [`legacy-three`](https://github.com/aCommittedGit/legacy-three) — Foundational tooling work.
-  - 🎯 [`legacy-four`](https://github.com/aCommittedGit/legacy-four) — Past product experiment.
+  - 🛹 `Nosegrind` — Turn one idea post into a self-updating content system.
+  - 🧰 `Silos` — Marketing automation you can actually understand.
+  - 📝 `Openform` — A self-hosted, pay-once form builder for people who refuse SaaS rent.
+  - 📓 `LoggerMan` — The future isn’t balanced. It’s logged.
+  - 🧠 `Hell’d` — Turns your screenshot hell into a playable second brain.
+  - 🧊 `Surface Matters` — Freeze the surface. Let everything else continue.
+  - 🎞️ [`Archive Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — A Python tool that
+  auto-builds random video collages from clips in your source footage.
+  - 🛰️ [`Datasets for Remote Sensing`](https://github.com/interfacingresearchlaboratory/remote-sensing) —
+  Archive of remote-sensing Python code.
+
+  ---
+
+  ### Spatial Computing Research
+
+  - 🏚️ `Models of Abandonment` — How infrastructure “fails on purpose” through financial strategy, and how to
+  govern it.
+  - 🐚 `Pivoting the Pearl` — A delta-scale model linking urban growth, flooding, and logistics in the Pearl
+  River.
+  - ⛓️ `Choke Points` — Tracks sand supply chains from the Mekong to Singapore/HK using geospatial data.
+  - 🌐 `Sensorium.Zone` — A digital twin framework combining spatial simulation with civic participation.
+
+  ---
+
+  ### Past Projects
+
+  - 🎈 `IRL PLAYground` — AI for early-learning teachers to design playful lessons, automate prep, and spark
+  real curiosity on the go.
 
