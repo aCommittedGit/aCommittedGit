@@ -21,6 +21,8 @@
   Now shipping production systems at scale.
   </blockquote>
 
+  ---
+
   ### Current Projects
 
   - 🚀 [`project-one`](https://github.com/aCommittedGit/project-one) — Short one-line description of what it does.
