@@ -20,7 +20,6 @@
   AA trained (cybernetics, complexity, buildings).<br>
   Now shipping production systems at scale.
   </blockquote>
-  ---
 
   ## Current Projects
 
