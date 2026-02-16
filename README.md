@@ -2,13 +2,18 @@
 
 📍 London | 👨‍💻 Builder | ex Architect (the building kind)
 
-![Location](https://img.shields.io/badge/📍-Austin,_TX-1f6feb?style=flat-square)
-![Role](https://img.shields.io/badge/Builder-111111?style=flat-square)
-![Focus](https://img.shields.io/badge/AI%20Tools-0ea5e9?style=flat-square)
-[![Website](https://img.shields.io/badge/Website-karl.codes-2563eb?style=flat-square&logo=googlechrome&logoColor=white)] (https://karl.codes)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https:// linkedin.com/in/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-aCommittedGit-181717?style=flat-square&logo=github&logoColor=white)] (https://github.com/aCommittedGit)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-
+  badge&logo=typescript&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
+  ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
+  ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+  ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
  Full-stack software engineer building real-time collaborative platforms. 
  Architecture + Manufacturing + Design background. 
