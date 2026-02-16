@@ -10,8 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https:// linkedin.com/in/yourhandle)
 [![GitHub](https://img.shields.io/badge/GitHub-aCommittedGit-181717?style=flat-square&logo=github&logoColor=white)] (https://github.com/aCommittedGit)
 
-  I build practical software and AI-powered tools.
-  I care about clean UX, fast iteration, and shipping useful products.
+ Full-stack software engineer building real-time collaborative platforms. 
+ Architecture + Manufacturing + Design background. 
+ AA trained (cybernetics, complexity, buildings). 
+ Now shipping production systems at scale.
 
   ---
 
