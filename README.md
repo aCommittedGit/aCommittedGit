@@ -29,22 +29,10 @@
   - 🛒 [`Pilfer`](https://www.getpilfer.com/) — Needlist, not just a wish.
   - 🗺️ `IRL Proximity` — A spatial research surface that turns Are.na blocks into programmable, multiplayer
   grids.
-  - 🏛️ `IRL Centre` — URL not ready.
-  - 📈 `M³ / TriM` — The control room that turns marketing into a system you can run and commit to.
-  - 🧪 `RBTL` — URL not ready.
-  - 🗃️ `Terminus` — Continuing the work of Warburg’s Bilderatlas Mnemosyne and The Whole Earth Catalog via CLI
-  and IRL.
-  - 🍽️ `METALspoon` — Meal planning for builders: knows your pantry, plans your week, and kills decision
-  fatigue.
+
 
   ### Open Source
 
-  - 🛹 `Nosegrind` — Turn one idea post into a self-updating content system.
-  - 🧰 `Silos` — Marketing automation you can actually understand.
-  - 📝 `Openform` — A self-hosted, pay-once form builder for people who refuse SaaS rent.
-  - 📓 `LoggerMan` — The future isn’t balanced. It’s logged.
-  - 🧠 `Hell’d` — Turns your screenshot hell into a playable second brain.
-  - 🧊 `Surface Matters` — Freeze the surface. Let everything else continue.
   - 🎞️ [`Archive Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — A Python tool that
   auto-builds random video collages from clips in your source footage.
   - 🛰️ [`Datasets for Remote Sensing`](https://github.com/interfacingresearchlaboratory/remote-sensing) —
