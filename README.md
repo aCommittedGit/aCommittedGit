@@ -21,7 +21,7 @@
     <p>Now shipping production systems at scale.</p>
   </blockquote>
 
-  ### Current Projects
+  ### Current Projects 🚀
 
   - 🧭 [`MONOid`](https://www.usemonoid.com/) — A builder-focused workspace that unifies tasks, schedules,
   and reviews from your tools so you can execute without context switching.
