@@ -29,8 +29,7 @@
   grids.
 
 
-  ### Open Source
-  click to check out the repo (dont forget to star)
+  ### Open Source ####   click to check out the repo (dont forget to star)
 
   - 🎞️ [`Archive Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — A Python tool that
   auto-builds random video collages from clips in your source footage.
