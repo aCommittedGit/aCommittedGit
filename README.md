@@ -1,5 +1,5 @@
- # Hi, a Committed Git (Karl irl) 👋
-
+ # Hi, i'm a Committed Git (Karl irl) 👋
+ 
   📍 London | 👨‍💻 Builder | ex Architecture (the building kind)
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
