@@ -61,5 +61,5 @@
 
   ### Past Projects
 
-  - 🎈 `IRL PLAYground` — AI for early-learning teachers to design playful lessons, automate prep, and spark
+  - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) — AI for early-learning teachers to design playful lessons, automate prep, and spark
   real curiosity on the go.
