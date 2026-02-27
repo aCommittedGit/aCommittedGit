@@ -1,4 +1,4 @@
- # Hi, I'm Karl (a Committed Git) 👋
+ # Hi, a Committed Git (Karl irl) 👋
 
   📍 London | 👨‍💻 Builder | ex Architecture (the building kind)
 
