@@ -25,8 +25,6 @@
 
   - 🧭 [`MONOid`](https://www.usemonoid.com/) — A builder-focused workspace that unifies tasks, schedules,
   and reviews from your tools so you can execute without context switching.
-  - 🌿 `Wyrd OS` — A calm operating system for teams who want clarity before velocity.
-  - 🛒 [`Pilfer`](https://www.getpilfer.com/) — Needlist, not just a wish.
   - 🗺️ `IRL Proximity` — A spatial research surface that turns Are.na blocks into programmable, multiplayer
   grids.
 
