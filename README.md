@@ -57,7 +57,7 @@
   - 🐚 [`Pivoting the Pearl`](https://www.interfacingresearchlaboratory.com/work/pivoting-the-pearl) — A delta-scale model linking urban growth, flooding, and logistics in the Pearl
   River.
   - ⛓️ [`Choke Points`](https://www.karlherdersch.com/projects/main/choke-points) — Tracks sand supply chains from the Mekong to Singapore/HK using geospatial data.
-  - 🌐 `Sensorium.Zone` — A digital twin framework combining spatial simulation with civic participation.
+  - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) — A digital twin framework combining spatial simulation with civic participation.
 
   ### Past Projects
 
