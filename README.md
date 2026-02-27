@@ -25,7 +25,7 @@
 
   - 🧭 [`MONOid`](https://www.usemonoid.com/) — A builder-focused workspace that unifies tasks, schedules,
   and reviews from your tools so you can execute without context switching.
-  - 🗺️ [`IRL Proximity`](https://www.irlproximity.com/) — A spatial research surface that turns Are.na blocks into programmable, multiplayer
+  - 🗺️ [`IRL Proximity`](https://www.irlproximity.com/) — A spatial research surface that turns media blocks into programmable, multiplayer
   grids.
 
 
