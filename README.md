@@ -3,25 +3,33 @@
   📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time &
   Distributed Systems &nbsp;|&nbsp; ex Architecture (AA)
 
-  **Languages & Frameworks**                                                    
                   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=re
-  act&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?s
-  tyle=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.s
-  hields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo
-  =python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?st
-  yle=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.i
-  o/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+  **Languages & Frameworks**                                                    
+                                                                                
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=r
+  eact&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/No
+  de.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
+  alt="Node.js"/> <img src="https://img.shields.io/badge/TS-3178C6?style=for-the
+  -badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img 
+  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pytho
+  n&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Swift
+  -FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> <img 
+  src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swif
+  t&logoColor=white" alt="SwiftUI"/>
 
   **Tooling**
 
-  ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-  ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
-  ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
-  ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubas
-  h&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=fo
-  r-the-badge&logo=apple&logoColor=white)
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" 
+  alt="Claude"/> <img 
+  src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" 
+  alt="Codex"/> <img 
+  src="https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge" 
+  alt="Cursor"/> <img src="https://img.shields.io/badge/CLI-121011?style=for-the
+  -badge&logo=gnubash&logoColor=white" alt="CLI"/> <img src="https://img.shields
+  .io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
+  alt="macOS"/>
+
+
 
   > Specialising in real-time collaborative infrastructure and distributed
   systems.
