@@ -57,8 +57,7 @@
   - ⛓️  [`Choke
   Points`](https://www.karlherdersch.com/projects/main/choke-points) —
   Geospatial tracking of sand supply chains from the Mekong to Singapore/HK.
-  - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sen
-  sorium-think-tank) — Digital twin framework combining spatial simulation with
+  - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) — Digital twin framework combining spatial simulation with
   civic participation data.
 
   ### Previous Work
