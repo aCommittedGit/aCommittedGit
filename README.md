@@ -5,30 +5,19 @@
 
                   
 **Languages & Frameworks**
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+ ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=
-  react&logoColor=61DAFB)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&l
-  ogo=nodedotjs&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&log
-  o=typescript&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&log
-  o=python&logoColor=white)
-    ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=
-  swift&logoColor=white)
-    ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&l
-  ogo=swift&logoColor=white)
 
-  **Tooling**
-
-    ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-    ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
-    ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
-    ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnub
-  ash&logoColor=white)
-    ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=
-  apple&logoColor=white)
-
+ **Tooling**
+ ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
+ ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
+ ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+ ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+ ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
   > Specialising in real-time collaborative infrastructure and distributed
   systems.
