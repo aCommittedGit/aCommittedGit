@@ -48,8 +48,7 @@
 
   ### Research
 
-  - 🏚️  [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/mod
-  els-of-abandonment) — Financial mechanisms behind deliberate infrastructure
+  - 🏚️  [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment) — Financial mechanisms behind deliberate infrastructure
   failure and governance models.
   - 🐚 [`Pivoting the
   Pearl`](https://www.interfacingresearchlaboratory.com/work/pivoting-the-pearl)
