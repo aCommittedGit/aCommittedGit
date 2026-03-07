@@ -39,7 +39,7 @@
 
   ### Open Source
   
-  – 📁 ['.mdly'](https://github.com/interfacingresearchlaboratory/.mdly) – rich text editor built on Lexical and shadcn/ui.
+  - 📁 ['.mdly'](https://github.com/interfacingresearchlaboratory/.mdly) – rich text editor built on Lexical and shadcn/ui.
   - 🎞️  [`Archive
   Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — Python
    tool for procedurally generating video collages from source footage.
