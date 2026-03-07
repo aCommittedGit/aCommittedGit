@@ -48,7 +48,13 @@
   Sensing`](https://github.com/interfacingresearchlaboratory/remote-sensing) —
   Curated archive of remote-sensing analysis code.
 
-  ### Research
+  ### Previous Work
+
+  - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) — AI platform for
+   early-learning educators. Lesson planning, automated prep, and adaptive
+  curriculum tooling.
+
+  ### Previous Research
 
   - 🏚️  [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment) — Financial mechanisms behind deliberate infrastructure
   failure and governance models.
@@ -61,9 +67,3 @@
   Geospatial tracking of sand supply chains from the Mekong to Singapore/HK.
   - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) — Digital twin framework combining spatial simulation with
   civic participation data.
-
-  ### Previous Work
-
-  - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) — AI platform for
-   early-learning educators. Lesson planning, automated prep, and adaptive
-  curriculum tooling.
