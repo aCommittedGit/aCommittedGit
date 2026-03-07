@@ -39,8 +39,8 @@
 
   ### Open Source
   
-  - 
   - 📁 ['.mdly'](https://github.com/interfacingresearchlaboratory/.mdly) – rich text editor built on Lexical and shadcn/ui.
+  - 📁 ['loudmouth'](https://github.com/aCommittedGit/loudmouth) – Terminal-first CLI to download YouTube media, generate transcripts, and auto-translate when needed.
   - 🎞️  [`Archive
   Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — Python
    tool for procedurally generating video collages from source footage.
