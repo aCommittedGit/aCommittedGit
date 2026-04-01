@@ -31,7 +31,7 @@
 
   - 🧭 [`MONOid`](https://www.usemonoid.com/) Real-time workspace engine
   aggregating tasks, schedules, and tool integrations into a unified execution
-  layer. Event-driven sync across services.
+  layer. Event-driven sync across services. For people and agent teams.
   - 🗺️  [`IRL Proximity`](https://www.irlproximity.com/) Multiplayer spatial
   canvas with programmable grid state. Real-time collaboration layer built over
   structured media blocks.
