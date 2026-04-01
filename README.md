@@ -1,7 +1,7 @@
  # Hi, I'm a Committed Git 👋
 
   📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time &
-  Distributed Systems &nbsp;|&nbsp; ex Architecture (AA)
+  Distributed Systems &nbsp;|&nbsp; ex Architecture
 
                   
 **Languages & Frameworks**  
