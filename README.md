@@ -35,11 +35,8 @@
   - 🗺️  [`IRL Proximity`](https://www.irlproximity.com/) Multiplayer spatial
   canvas with programmable grid state. Real-time collaboration layer built over
   structured media blocks.
- - 🧠 [Wyrd OS] (https://www.wyrdos.app) A real-time meaning layer shared acr
-    oss teams and agents, so context stays aligned as work moves.
-  - 💸 [Pilfer] (https://www.getpilfer.com/) A spend-aware needlist for indivi
-    duals and teams, built for deciding what matters, not just allocating bu
-    dget.
+  - 🧠 [Wyrd OS] (https://www.wyrdos.app) A real-time meaning layer shared across teams and agents, so context stays aligned as work moves.
+  - 💸 [Pilfer] (https://www.getpilfer.com/) A spend-aware needlist for individuals and teams, built for deciding what matters, not just allocating budget.
 
   ### Open Source
   
