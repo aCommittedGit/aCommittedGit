@@ -29,40 +29,40 @@
   ---
   ### Current Projects 🚀
 
-  - 🧭 [`MONOid`](https://www.usemonoid.com/) — Real-time workspace engine
+  - 🧭 [`MONOid`](https://www.usemonoid.com/) Real-time workspace engine
   aggregating tasks, schedules, and tool integrations into a unified execution
   layer. Event-driven sync across services.
-  - 🗺️  [`IRL Proximity`](https://www.irlproximity.com/) — Multiplayer spatial
+  - 🗺️  [`IRL Proximity`](https://www.irlproximity.com/) Multiplayer spatial
   canvas with programmable grid state. Real-time collaboration layer built over
   structured media blocks.
 
   ### Open Source
   
-  - 📁 [`.mdly`](https://github.com/interfacingresearchlaboratory/.mdly) – rich text editor built on Lexical and shadcn/ui.
-  - 📁 [`loudmouth`](https://github.com/aCommittedGit/loudmouth) – Terminal-first CLI to download YouTube media, generate transcripts, and auto-translate when needed.
+  - 📁 [`.mdly`](https://github.com/interfacingresearchlaboratory/.mdly) rich text editor built on Lexical and shadcn/ui.
+  - 📁 [`loudmouth`](https://github.com/aCommittedGit/loudmouth) Terminal-first CLI to download YouTube media, generate transcripts, and auto-translate when needed.
   - 🎞️  [`Archive
-  Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) — Python
+  Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) Python
    tool for procedurally generating video collages from source footage.
   - 🛰️  [`Datasets for Remote
-  Sensing`](https://github.com/interfacingresearchlaboratory/remote-sensing) —
+  Sensing`](https://github.com/interfacingresearchlaboratory/remote-sensing)
   Curated archive of remote-sensing analysis code.
 
   ### Previous Work
 
-  - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) — AI platform for
+  - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) AI platform for
    early-learning educators. Lesson planning, automated prep, and adaptive
   curriculum tooling.
 
   ### Previous Research
 
-  - 🏚️  [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment) — Financial mechanisms behind deliberate infrastructure
+  - 🏚️  [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment) Financial mechanisms behind deliberate infrastructure
   failure and governance models.
   - 🐚 [`Pivoting the
   Pearl`](https://www.interfacingresearchlaboratory.com/work/pivoting-the-pearl)
-   — Delta-scale computational model of urban growth, flooding, and logistics in
+    Delta-scale computational model of urban growth, flooding, and logistics in
    the Pearl River.
   - ⛓️  [`Choke
-  Points`](https://www.karlherdersch.com/projects/main/choke-points) —
+  Points`](https://www.karlherdersch.com/projects/main/choke-points)
   Geospatial tracking of sand supply chains from the Mekong to Singapore/HK.
-  - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) — Digital twin framework combining spatial simulation with
+  - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) Digital twin framework combining spatial simulation with
   civic participation data.
