@@ -39,6 +39,13 @@
 
 - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) AI platform for early-learning educators. physical product line certified to EN 71, deployed across 8 schools in London, Hong Kong, and Singapore.
 
+### Toy Collection 2025/26
+
+- 🧱 **KIN** modular structures teaching systems thinking through constrained physical assembly. photogrammetry captures each configuration.
+- 🎭 **Pieces** abstract character sets for AI-assisted storytelling. CLIP embeddings enable semantic narrative search across physical play.
+- 🏡 **Our Home** spatial puzzle teaching ecological systems thinking. children physically construct functioning ecosystems under constraints.
+- 🖍️ **Produce Crayons** waste material transformation into learning tools. supply chain metadata embedded in each crayon.
+
 ### Hardware
 
 built a robotics fabrications workshop for a London artist in my spare time. robotic arm with interchangeable endpoints, calibrated to production (2018). also: bandsaw appropriated onto a robotic arm for structural and ornamental wood cuts (2017). that's just the kind of thing i do for fun.
