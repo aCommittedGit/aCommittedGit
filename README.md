@@ -3,7 +3,10 @@
   📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time &
   Distributed Systems &nbsp;|&nbsp; ex Architecture
 
-                  
+**OS**  
+ ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ 
 **Languages & Frameworks**  
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,8 +19,9 @@
  ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
  ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
  ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+ ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
  ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
- ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
   > Specialising in real-time collaborative infrastructure and distributed
   systems.
