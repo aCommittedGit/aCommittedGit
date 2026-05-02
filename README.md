@@ -39,7 +39,7 @@
 
 - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) AI platform for early-learning educators. physical product line certified to EN 71, deployed across 8 schools in London, Hong Kong, and Singapore.
 
-### Toy Collection 2025/26
+### Devices for Children: Toy Collection 2025/26
 
 - 🧱 **KIN** modular structures teaching systems thinking through constrained physical assembly. photogrammetry captures each configuration.
 - 🎭 **Pieces** abstract character sets for AI-assisted storytelling. CLIP embeddings enable semantic narrative search across physical play.
