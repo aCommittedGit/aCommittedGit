@@ -15,9 +15,9 @@
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
 
-> building infrastructure for how people and agents work together.
-> real-time systems, physical products, and hardware. across whatever the problem requires.
-> interested in things that stay coherent under pressure.
+> Building infrastructure for how people and agents work together.  
+> Real-time systems, physical products, and hardware. Across whatever the problem requires.  
+> Interested in things that stay coherent under pressure.
 
 ---
 
