@@ -1,5 +1,4 @@
-# Hi, I'm a Committed Git 👋
-
+# 👋 Im, A Committed Git 
 📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products
 
 **Stack**
