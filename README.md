@@ -53,6 +53,6 @@ built a robotics fabrications workshop for a London artist in my spare time. rob
 ### Research
 
 - 🏚️ [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment) financial mechanisms behind deliberate infrastructure failure.
-- 🐚 [`Pivoting the Pearl`](https://www.interfacingresearchlaboratory.com/work/pivoting-the-pearl) delta-scale computational model of urban growth, flooding, and logistics in the Pearl River.
+- 🐚 [`Pivoting the Pearl`] delta-scale computational model of urban growth, flooding, and logistics in the Pearl River.
 - ⛓️ [`Choke Points`](https://www.karlherdersch.com/projects/main/choke-points) geospatial tracking of sand supply chains from the Mekong to Singapore and HK.
 - 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) digital twin combining spatial simulation with civic participation data.
