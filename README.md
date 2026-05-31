@@ -1,18 +1,29 @@
 # 👋 Im, A Committed Git 
 📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products
 
-**Stack**
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+ **Stack**
+  ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+  ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+  ![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+  ![Lexical](https://img.shields.io/badge/Lexical-1877F2?style=for-the-badge)
 
-**Tooling**
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
+  **Tooling**
+  ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+  ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
+  ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+  ![Cursor](https://img.shields.io/badge/Cursor-1F2937?style=for-the-badge)
+
 
 > Building infrastructure for how people and agents work together.  
 > Real-time systems, physical products, and hardware. Across whatever the problem requires.  
