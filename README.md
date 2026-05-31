@@ -1,7 +1,7 @@
 # 👋 Im, A Committed Git 
 📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products
 
- **Stack**
+ **Stack**  
   ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +17,7 @@
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
   ![Lexical](https://img.shields.io/badge/Lexical-1877F2?style=for-the-badge)
 
-  **Tooling**
+  **Tooling**  
   ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
   ![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
   ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge)
