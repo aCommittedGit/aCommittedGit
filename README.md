@@ -1,5 +1,5 @@
 # 👋 I'm A Committed Git 
-📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products
+📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products  
   Building infrastructure for how people and agents work together: real-time systems, spatial tools, AI workflows, and physical products.
 
  **Stack**  
