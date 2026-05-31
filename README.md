@@ -50,15 +50,14 @@
 
 - 🎈 [`IRL PLAYground`](https://www.irlplayground.com/en-gb) AI platform for early-learning educators. physical product line certified to EN 71, deployed across 8 schools in London, Hong Kong, and Singapore.
 
-### Devices for Children: Toy Collection 2025/26
-[`General Overview of IRL PLAYground at Hong Kong Toy fair 2025`](https://www.karlherdersch.com/projects/main/irl-playground)  
-[`Material Research`](https://www.karlherdersch.com/projects/main/mycellium-for-toy-production)
-
+### Devices for Children: Toy Collection 2025/26  
 
 - 🧱 **KIN** modular structures teaching systems thinking through constrained physical assembly. photogrammetry captures each configuration.
 - 🎭 **Pieces** abstract character sets for AI-assisted storytelling. CLIP embeddings enable semantic narrative search across physical play.
 - 🏡 **Our Home** spatial puzzle teaching ecological systems thinking. children physically construct functioning ecosystems under constraints.
 - 🖍️ **Produce Crayons** waste material transformation into learning tools. supply chain metadata embedded in each crayon.
+[`General Overview of IRL PLAYground at Hong Kong Toy fair 2025`](https://www.karlherdersch.com/projects/main/irl-playground)  
+[`Material Research`](https://www.karlherdersch.com/projects/main/mycellium-for-toy-production)
 
 
 ### Hardware
