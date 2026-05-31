@@ -1,5 +1,6 @@
-# 👋 Im, A Committed Git 
+# 👋 I'm A Committed Git 
 📍 London &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Real-Time Systems &nbsp;|&nbsp; Physical Products
+  Building infrastructure for how people and agents work together: real-time systems, spatial tools, AI workflows, and physical products.
 
  **Stack**  
   ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
