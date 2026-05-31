@@ -55,7 +55,7 @@
 - 🧱 **KIN** modular structures teaching systems thinking through constrained physical assembly. photogrammetry captures each configuration.
 - 🎭 **Pieces** abstract character sets for AI-assisted storytelling. CLIP embeddings enable semantic narrative search across physical play.
 - 🏡 **Our Home** spatial puzzle teaching ecological systems thinking. children physically construct functioning ecosystems under constraints.
-- 🖍️ **Produce Crayons** waste material transformation into learning tools. supply chain metadata embedded in each crayon.
+- 🖍️ **Produce Crayons** waste material transformation into learning tools. supply chain metadata embedded in each crayon.  
 [`General Overview of IRL PLAYground at Hong Kong Toy fair 2025`](https://www.karlherdersch.com/projects/main/irl-playground)  
 [`Material Research`](https://www.karlherdersch.com/projects/main/mycellium-for-toy-production)
 
