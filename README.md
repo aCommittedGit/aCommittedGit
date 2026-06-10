@@ -40,9 +40,6 @@
 - 💸 [`Pilfer`](https://www.getpilfer.com/) spend intelligence for individuals and teams. web + Electron, single codebase. built for deciding what matters, not just tracking what was spent.
 
 ### Open Source
-
-- 📝 [`.mdly`](https://github.com/interfacingresearchlaboratory/.mdly) self-hostable rich text editor. Lexical + shadcn/ui.
-- 📢 [`loudmouth`](https://github.com/aCommittedGit/loudmouth) CLI: YouTube → transcript → translation.
 - 🎞️ [`Archive Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh) Python tool for procedurally generating video collages from source footage.
 - 🛰️ [`Remote Sensing Datasets`](https://github.com/interfacingresearchlaboratory/remote-sensing) curated archive of remote-sensing analysis code.
 
