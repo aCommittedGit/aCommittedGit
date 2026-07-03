@@ -48,44 +48,6 @@ The interesting part is the model underneath: what the company thinks it is doin
    ✍️  .mdly       editor substrate
 ```
 
-```mermaid
-flowchart TB
-    IRL["Interfacing Research Laboratory"]
-
-    subgraph Practice["Company operations"]
-      Proximity["Proximity<br/>operating intelligence"]
-      MONOid["MONOid<br/>weekly operating layer"]
-      Pilfer["Pilfer<br/>spend decisioning"]
-      WyrdOS["WyrdOS<br/>company world-state"]
-      Actor["Actor<br/>local agent harness"]
-    end
-
-    subgraph Learning["learning / physical products"]
-      PLAYground["PLAYground<br/>AI co-teacher"]
-      Toys["toy collection<br/>KIN / Pieces / Our Home / Produce Crayons"]
-    end
-
-    subgraph Substrate["shared substrate"]
-      Mdly[".mdly<br/>editor primitives"]
-      Context["context / permissions / evidence"]
-    end
-
-    IRL --> Practice
-    IRL --> Learning
-    IRL --> Substrate
-
-    Proximity --> Context
-    MONOid --> Context
-    Pilfer --> Context
-    WyrdOS --> Context
-    Actor --> Context
-    PLAYground --> Toys
-    PLAYground --> Context
-    Mdly --> Proximity
-    Mdly --> MONOid
-    Mdly --> WyrdOS
-```
-
 - 🗺️ [`Proximity`](https://proximity.interfacingresearchlaboratory.com/en)  
   Operating intelligence platform for professional services and specialist teams. It connects active work, source evidence, approvals, spend, operating cadence, and agent-ready context into a governed model of practice.
 
