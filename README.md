@@ -34,7 +34,20 @@ The interesting part is the model underneath: what the company thinks it is doin
     company context that is structured, searchable, permissioned,
     current, and useful where work actually happens
 ```
+```mermaid
+flowchart LR
+    People[people] --> Context[company context]
+    Agents[agents] --> Context
+    Tools[tools + systems] --> Context
+    Docs[docs + evidence] --> Context
+    Money[spend + commitments] --> Context
+    Places[physical + digital environments] --> Context
+    History[decisions + memory] --> Context
 
+    Context --> Model[structured operating model]
+    Model --> Action[review / decide / delegate / build]
+    Action --> History
+```
 ## `./irl-product-system`
 
 ```txt
