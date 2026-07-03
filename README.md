@@ -34,20 +34,6 @@ The interesting part is the model underneath: what the company thinks it is doin
     company context that is structured, searchable, permissioned,
     current, and useful where work actually happens
 ```
-```mermaid
-flowchart LR
-    People[people] --> Context[company context]
-    Agents[agents] --> Context
-    Tools[tools + systems] --> Context
-    Docs[docs + evidence] --> Context
-    Money[spend + commitments] --> Context
-    Places[physical + digital environments] --> Context
-    History[decisions + memory] --> Context
-
-    Context --> Model[structured operating model]
-    Model --> Action[review / decide / delegate / build]
-    Action --> History
-```
 ## `./irl-product-system`
 
 ```txt
@@ -60,6 +46,60 @@ flowchart LR
    🧰  Actor       local agent harness
    🎈  PLAYground  early-years learning
    ✍️  .mdly       editor substrate
+```
+
+```mermaid
+flowchart TB
+    IRL["Interfacing Research Laboratory"]
+
+    subgraph Practice["professional practice / company operations"]
+      Proximity["Proximity<br/>operating intelligence"]
+      MONOid["MONOid<br/>weekly operating layer"]
+      Pilfer["Pilfer<br/>spend decisioning"]
+      WyrdOS["WyrdOS<br/>company world-state"]
+      Actor["Actor<br/>local agent harness"]
+    end
+
+    subgraph Learning["learning / physical products"]
+      PLAYground["PLAYground<br/>AI co-teacher"]
+      Toys["toy collection<br/>KIN / Pieces / Our Home / Produce Crayons"]
+    end
+
+    subgraph Substrate["shared substrate"]
+      Mdly[".mdly<br/>editor primitives"]
+      Context["context / permissions / evidence"]
+    end
+
+    IRL --> Practice
+    IRL --> Learning
+    IRL --> Substrate
+
+    Proximity --> Context
+    MONOid --> Context
+    Pilfer --> Context
+    WyrdOS --> Context
+    Actor --> Context
+    PLAYground --> Toys
+    PLAYground --> Context
+    Mdly --> Proximity
+    Mdly --> MONOid
+    Mdly --> WyrdOS
+```
+
+```mermaid
+flowchart LR
+    WyrdOS["WyrdOS<br/>principles / goals / decisions"] --> Proximity["Proximity<br/>practice state"]
+    MONOid["MONOid<br/>tasks / schedules / reviews"] --> Proximity
+    Pilfer["Pilfer<br/>vendors / spend / commitments"] --> Proximity
+    Actor["Actor<br/>bounded agent execution"] --> Proximity
+
+    Proximity --> Reviews["reviews"]
+    Proximity --> Approvals["approvals"]
+    Proximity --> Evidence["source-backed evidence"]
+    Proximity --> Actions["next actions"]
+
+    PLAYground["PLAYground<br/>classroom practice"] --> Physical["physical learning objects"]
+    Physical --> PLAYground
 ```
 
 - 🗺️ [`Proximity`](https://proximity.interfacingresearchlaboratory.com/en)  
