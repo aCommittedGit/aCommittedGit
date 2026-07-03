@@ -2,9 +2,9 @@
  .----------------------------------------------------------------------------.
  |                                                                            |
  |     A COMMITTED GIT / KARL HERDERSCH                                       |
- |     disk 01 :: london :: software engineer / product architect              |
+ |     disk 01 :: london :: software engineer / product architect             |
  |                                                                            |
- |     systems for work that gets too tangled for ordinary software            |
+ |     systems for work that gets too tangled for ordinary software           |
  |                                                                            |
  '----------------------------------------------------------------------------'
 
@@ -124,6 +124,6 @@ The interesting part is the model underneath: what the company thinks it is doin
 ```txt
  .------------------------------ eof -----------------------------------------.
  |  no funnel. no thought leadership confetti.                                |
- |  just tools, systems, memory, and the occasional useful disturbance.         |
+ |  just tools, systems, memory, and the occasional useful disturbance.       |
  '----------------------------------------------------------------------------'
 ```
