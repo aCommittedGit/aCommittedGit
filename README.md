@@ -1,140 +1,129 @@
 ```txt
-KARL HERDERSCH / A COMMITTED GIT
-London
-software engineer / product architect
+ .----------------------------------------------------------------------------.
+ |                                                                            |
+ |     A COMMITTED GIT / KARL HERDERSCH                                       |
+ |     disk 01 :: london :: software engineer / product architect              |
+ |                                                                            |
+ |     systems for work that gets too tangled for ordinary software            |
+ |                                                                            |
+ '----------------------------------------------------------------------------'
 
-focus:
-  real-time systems
-  agent coordination
-  ontological systems
-  knowledge-based company systems
-  spatial interfaces
-  operational memory
-  physical computing
-  tools that stay coherent under pressure
+      [ real-time systems ] [ agent coordination ] [ company ontologies ]
+      [ spatial interfaces ] [ operational memory ] [ physical tools ]
+      [ complexity science ] [ still coherent under pressure ]
 ```
 
-I build systems for work that becomes too complex for ordinary software: teams, agents, company ontologies, research surfaces, spending decisions, learning environments, and editor infrastructure.
+I build tools for organisations whose work is spread across people, agents, documents, calendars, code, money, rooms, workshops, and software.
 
-My work draws on complexity science: how organisations behave when people, tools, agents, environments, and decisions become tightly coupled.
-
-Architecture trained me to think in constraints, interfaces, feedback, and irreversible decisions. Software gave me a way to make those systems executable.
+The interesting part is the model underneath: what the company thinks it is doing, what it is actually doing, and what survives long enough to matter.
 
 ```txt
-OPERATING LENS
+:: CURRENT SIGNAL
 
-  input      -> human intent, agent state, physical context, digital context
-  interface  -> where system becomes legible
-  feedback   -> what changes behaviour
-  memory     -> what survives the session
-  governance -> what keeps action from becoming noise
+  ontological + knowledge-based systems for companies
+
+  premise
+    operating knowledge splits across chats, docs, tickets, repos,
+    finance tools, meetings, physical spaces, and half-remembered decisions
+
+  frame
+    complexity science close to the machine:
+    coupled people, tools, agents, environments, decisions, and history
+
+  output
+    company context that is structured, searchable, permissioned,
+    current, and useful where work actually happens
 ```
 
-## Current Work
+## `./irl-product-system`
 
 ```txt
-ONTOLOGICAL COMPANY SYSTEMS
+ Interfacing Research Laboratory
 
-  problem:
-    companies act through partial models of themselves
-
-  failure mode:
-    goals, roles, decisions, documents, work, and memory drift apart
-
-  approach:
-    give the organisation a structured model of its work
-    connect intent, action, evidence, environment, and memory
-    keep context usable as the company changes
-
-  output:
-    knowledge-based systems where company context becomes structured,
-    queryable, governable, and usable by humans, agents, and
-    the physical and digital environments they inhabit
+   🗺️  Proximity   operating intelligence for professional practice
+   🧭  MONOid      weekly operating layer
+   💸  Pilfer      purchasing decisions
+   🧠  WyrdOS      company world-state
+   🧰  Actor       local agent harness
+   🎈  PLAYground  early-years learning
+   ✍️  .mdly       editor substrate
 ```
 
-## IRL Product System
+- 🗺️ [`Proximity`](https://proximity.interfacingresearchlaboratory.com/en)  
+  Operating intelligence platform for professional services and specialist teams. It connects active work, source evidence, approvals, spend, operating cadence, and agent-ready context into a governed model of practice.
+
+- 🧭 [`MONOid`](https://www.usemonoid.com/)  
+  Weekly operating layer for teams and agents. Tasks, schedules, projects, integrations, reviews, and handoffs stay inside one routine.
+
+- 💸 [`Pilfer`](https://www.getpilfer.com/)  
+  Purchasing-planning system for startups and SMEs. Spend becomes comparable to goals, runway, priority, and past impact.
+
+- 🧠 [`WyrdOS`](https://www.wyrdos.app)  
+  Company world-state for principles, goals, decisions, projects, and actions. Shared memory for humans, agents, and the environments they operate inside.
+
+- 🧰 `Actor`  
+  Local agent harness for software teams. Project context, terminal workflows, permissions, personas, and app integrations in one controllable execution surface.
+
+- 🎈 [`PLAYground`](https://www.irlplayground.com/en-us)  
+  AI learning system for early-years educators. Classroom observation, physical learning objects, curriculum evidence, and teacher workflows stay connected.
+
+- ✍️ [`.mdly`](https://mdly.interfacingresearchlaboratory.com/)  
+  Rich-text substrate for IRL products. Lexical and shadcn editor primitives for markdown, blocks, cards, tables, and review.
+
+## `./toolchain`
 
 ```txt
-Interfacing Research Laboratory
-
-  Proximity
-    -> spatial research surface for Are.na blocks and public thinking
-  MONOid     -> weekly routine layer for teams and agents
-  Pilfer     -> purchasing decisions as structured bets
-  WyrdOS     -> company world-state and operating memory
-  Actor      -> local agent harness for software work
-  PLAYground -> early-years learning connected to physical play
-  .mdly      -> rich-text substrate for product-native documents
+ languages    TypeScript / Python / Swift
+ web          React / Next.js / Tailwind / Electron
+ systems      Node / PostgreSQL / Convex / Drizzle
+ interfaces   Lexical / Three.js / real-time collaboration
+ cockpit      Neovim / terminal agents / Codex / Claude / Cursor
 ```
 
-[Proximity](https://www.irlproximity.com/)  
-Spatial research surface for Are.na blocks, multiplayer grids, annotation, team collaboration, and public thinking. It gives research material a shared environment instead of another private list.
+## `./public-drops`
 
-[MONOid](https://www.usemonoid.com/)  
-Weekly operating layer for teams and agents. Tasks, schedules, projects, integrations, reviews, and handoffs stay inside one routine.
+- 🎞️ [`Archive Mosh`](https://github.com/interfacingresearchlaboratory/archive-mosh)  
+  Python tool for procedurally generating video collages from source footage.
 
-[WyrdOS](https://www.wyrdos.app)  
-Company world-state for principles, goals, decisions, projects, and actions. Shared memory for humans, agents, and the environments they operate inside.
+- 🛰️ [`Remote Sensing Datasets`](https://github.com/interfacingresearchlaboratory/remote-sensing)  
+  Archive of remote-sensing analysis code.
 
-[Pilfer](https://www.getpilfer.com/)  
-Purchasing-planning system for startups and SMEs. Spend becomes comparable to goals, runway, priority, and past impact.
-
-Actor  
-Local agent harness for software teams. Project context, terminal workflows, permissions, personas, and app integrations in one controllable execution surface.
-
-[PLAYground](https://www.irlplayground.com/en-us)  
-AI learning system for early-years educators. Classroom observation, physical learning objects, curriculum evidence, and teacher workflows stay connected.
-
-[.mdly](https://mdly.interfacingresearchlaboratory.com/)  
-Rich-text substrate for IRL products. Lexical and shadcn editor primitives for markdown, blocks, cards, tables, and review.
-
-## Stack
+## `./physical-side-channel`
 
 ```txt
-languages:   TypeScript, Python, Swift
-web:         React, Next.js, Tailwind, Electron
-systems:     Node, PostgreSQL, Convex, Drizzle
-interfaces:  Lexical, Three.js, real-time collaboration
-tooling:     Neovim, CLI agents, Codex, Claude, Cursor
+ PLAYground toy collection 2025/26
+
+   🧱  KIN              modular systems-thinking structures
+   🎭  Pieces           abstract character sets for AI-assisted storytelling
+   🏡  Our Home         spatial puzzle for ecological systems thinking
+   🖍️  Produce Crayons  material transformation into learning tools
 ```
 
-## Open Source
+[`IRL PLAYground overview`](https://www.karlherdersch.com/projects/main/irl-playground)  
+[`Material research`](https://www.karlherdersch.com/projects/main/mycellium-for-toy-production)
 
-[Archive Mosh](https://github.com/interfacingresearchlaboratory/archive-mosh)  
-Python tool for procedurally generating video collages from source footage.
-
-[Remote Sensing Datasets](https://github.com/interfacingresearchlaboratory/remote-sensing)  
-Archive of remote-sensing analysis code.
-
-## Physical Systems
+## `./old-files-still-useful`
 
 ```txt
-PLAYground toy collection 2025/26
+ robotic fabrication workshop
+   interchangeable end-effectors
+   calibrated production arm
+   bandsaw-mounted robotic cutting experiments
 
-  KIN             modular systems-thinking structures
-  Pieces          abstract character sets for AI-assisted storytelling
-  Our Home        spatial puzzle for ecological systems thinking
-  Produce Crayons material transformation into learning tools
+ research
+   Models of Abandonment  infrastructure failure + finance
+   Pivoting the Pearl     delta-scale urban simulation
+   Choke Points           geospatial supply-chain tracking
+   Sensorium.Zone         civic simulation + digital twins
 ```
 
-[IRL PLAYground overview](https://www.karlherdersch.com/projects/main/irl-playground)  
-[Material research](https://www.karlherdersch.com/projects/main/mycellium-for-toy-production)
-
-## Earlier Work
+- 🏚️ [`Models of Abandonment`](https://www.karlherdersch.com/projects/main/models-of-abandonment)
+- ⛓️ [`Choke Points`](https://www.karlherdersch.com/projects/main/choke-points)
+- 🌐 [`Sensorium.Zone`](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank)
 
 ```txt
-robotic fabrication workshop
-  interchangeable end-effectors
-  calibrated production arm
-  bandsaw-mounted robotic cutting experiments
-
-research
-  Models of Abandonment -> infrastructure failure and finance
-  Pivoting the Pearl    -> delta-scale urban simulation
-  Choke Points          -> geospatial supply-chain tracking
-  Sensorium.Zone        -> civic simulation and digital twins
+ .------------------------------ eof -----------------------------------------.
+ |  no funnel. no thought leadership confetti.                                |
+ |  just tools, systems, memory, and the occasional useful disturbance.         |
+ '----------------------------------------------------------------------------'
 ```
-
-[Models of Abandonment](https://www.karlherdersch.com/projects/main/models-of-abandonment)  
-[Choke Points](https://www.karlherdersch.com/projects/main/choke-points)  
-[Sensorium.Zone](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank)
