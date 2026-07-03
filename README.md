@@ -52,7 +52,7 @@ The interesting part is the model underneath: what the company thinks it is doin
 flowchart TB
     IRL["Interfacing Research Laboratory"]
 
-    subgraph Practice["professional practice / company operations"]
+    subgraph Practice["Company operations"]
       Proximity["Proximity<br/>operating intelligence"]
       MONOid["MONOid<br/>weekly operating layer"]
       Pilfer["Pilfer<br/>spend decisioning"]
@@ -84,22 +84,6 @@ flowchart TB
     Mdly --> Proximity
     Mdly --> MONOid
     Mdly --> WyrdOS
-```
-
-```mermaid
-flowchart LR
-    WyrdOS["WyrdOS<br/>principles / goals / decisions"] --> Proximity["Proximity<br/>practice state"]
-    MONOid["MONOid<br/>tasks / schedules / reviews"] --> Proximity
-    Pilfer["Pilfer<br/>vendors / spend / commitments"] --> Proximity
-    Actor["Actor<br/>bounded agent execution"] --> Proximity
-
-    Proximity --> Reviews["reviews"]
-    Proximity --> Approvals["approvals"]
-    Proximity --> Evidence["source-backed evidence"]
-    Proximity --> Actions["next actions"]
-
-    PLAYground["PLAYground<br/>classroom practice"] --> Physical["physical learning objects"]
-    Physical --> PLAYground
 ```
 
 - 🗺️ [`Proximity`](https://proximity.interfacingresearchlaboratory.com/en)  
