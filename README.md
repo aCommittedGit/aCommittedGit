@@ -4,7 +4,7 @@
  |     A COMMITTED GIT / KARL HERDERSCH                                       |
  |     disk 01 :: london :: software engineer / product architect             |
  |                                                                            |
- |     systems for life that gets too tangled for ordinary software           |
+ |     systems for a life too tangled for ordinary software                   |
  |                                                                            |
  '----------------------------------------------------------------------------'
 
