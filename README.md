@@ -4,8 +4,7 @@
  |     A COMMITTED GIT / KARL HERDERSCH                                       |
  |     disk 01 :: london :: software engineer / product architect             |
  |                                                                            |
- |     systems for a life too enmeshed for the ordinary                       |
- |                                                                            |
+ |     Complex systems for everyday life                                      |
  '----------------------------------------------------------------------------'
 
       [ real-time systems ] [ agent coordination ] [ company ontologies ]
