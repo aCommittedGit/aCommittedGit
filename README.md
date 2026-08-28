@@ -1,7 +1,7 @@
 ```txt
  .----------------------------------------------------------------------------.
  |                                                                            |
- |     A COMMITTED GIT / KH                                                  |
+ |     A COMMITTED GIT / KH                                                   |
  |     disk 01 :: london :: software engineer / product architect             |
  |                                                                            |
  |     Complex systems for everyday life                                      |
