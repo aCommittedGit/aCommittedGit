@@ -1,7 +1,7 @@
 ```txt
  .----------------------------------------------------------------------------.
  |                                                                            |
- |     A COMMITTED GIT / KARL HERDERSCH                                       |
+ |     A COMMITTED GIT / KH                                                  |
  |     disk 01 :: london :: software engineer / product architect             |
  |                                                                            |
  |     Complex systems for everyday life                                      |
@@ -12,9 +12,9 @@
       [ complexity science ] [ still coherent under pressure ]
 ```
 
-I build tools for organisations whose work is spread across people, agents, documents, calendars, code, money, rooms, workshops, and software.
+I build tools for organisations whose work is spread across people, agents, documents, calendars, code, finance, rooms, geographies, and software.
 
-The interesting part is the model underneath: what the company thinks it is doing, what it is actually doing, and what survives long enough to matter.
+Particularly interesting in spatial computing, ai and anticipatory dynamics in distributed systems. 
 
 ```txt
 :: CURRENT SIGNAL
@@ -38,29 +38,17 @@ The interesting part is the model underneath: what the company thinks it is doin
 ```txt
  Interfacing Research Laboratory
 
-   🗺️  Proximity   operating intelligence for professional practice
-   🧭  MONOid      weekly operating layer
-   💸  Pilfer      purchasing decisions
-   🧠  WyrdOS      company world-state
-   🧰  Actor       local agent harness
+   🗺️  Proximity   operating intelligence for professional practice that includes: 
+        🧭  MONOid      weekly operating layer
+        💸  Pilfer      purchasing decisions
+        🧠  WyrdOS      company world-state
+        🧰  Actor       local agent harness
    🎈  PLAYground  early-years learning
    ✍️  .mdly       editor substrate
 ```
 
 - 🗺️ [`Proximity`](https://proximity.interfacingresearchlaboratory.com/en)  
   Operating intelligence platform for professional services and specialist teams. It connects active work, source evidence, approvals, spend, operating cadence, and agent-ready context into a governed model of practice.
-
-- 🧭 [`MONOid`](https://www.usemonoid.com/)  
-  Weekly operating layer for teams and agents. Tasks, schedules, projects, integrations, reviews, and handoffs stay inside one routine.
-
-- 💸 [`Pilfer`](https://www.getpilfer.com/)  
-  Purchasing-planning system for startups and SMEs. Spend becomes comparable to goals, runway, priority, and past impact.
-
-- 🧠 [`WyrdOS`](https://www.wyrdos.app)  
-  Company world-state for principles, goals, decisions, projects, and actions. Shared memory for humans, agents, and the environments they operate inside.
-
-- 🧰 `Actor`  
-  Local agent harness for software teams. Project context, terminal workflows, permissions, personas, and app integrations in one controllable execution surface.
 
 - 🎈 [`PLAYground`](https://www.irlplayground.com/en-us)  
   AI learning system for early-years educators. Classroom observation, physical learning objects, curriculum evidence, and teacher workflows stay connected.
