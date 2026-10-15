@@ -1,190 +1,61 @@
-Karl Herdersch
+**Complex systems · Applied AI · Knowledge architectures · Spatial computing · Design**
 
-Research · Computation · Architecture · Design
+```text
+ .----------------------------------------------------------.
+ |  A COMMITTED GIT / KH                                     |
+ |  Research / Computation / Architecture / Design           |
+ |  Complex systems for everyday life                       |
+ '----------------------------------------------------------'
+```
 
-London, UK
-Personal website · Interfacing Research Laboratory
+# Karl Herdersch
 
-⸻
+London, UK · [Personal website](https://www.karlherdersch.com/) · [Interfacing Research Laboratory](https://www.interfacingresearchlaboratory.com/)
 
-I work across architecture, software engineering, and interdisciplinary research, investigating the organisation and behaviour of complex systems.
+I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research.
 
-My interests lie in the relationships between intelligence, technology, infrastructure, and the physical environment. I use computation, spatial analysis, modelling, and design to investigate how these systems develop, interact, and transform.
+At [Ironbridge](https://ironbridge.tech/), I build AI platforms and workflows that connect company knowledge, models, and data for everyday businesses.
 
-My practice moves between scales, from knowledge representation, autonomous agents, and organisational systems to buildings, cities, logistical networks, and planetary infrastructures.
+## Current focus
 
-I am particularly interested in the relationship between representation and reality: how information becomes knowledge, how models influence decisions, and how computational systems might acquire the capacity to observe, anticipate, and act within changing environments.
+- **Knowledge systems:** ontologies, knowledge graphs, provenance, and temporal models that preserve context as organisations change.
+- **Autonomous systems:** agent coordination, contextual reasoning, and distributed software that can observe, anticipate, and act.
+- **Spatial intelligence:** remote sensing, simulation, and interfaces for exploring physical environments.
 
-The longer-term ambition is to establish an independent research and design practice connecting scientific inquiry, technological development, architecture, and cultural production.
+The connecting question: how can we make complex environments easier to understand and act within, without losing their uncertainty, history, or relationships?
 
-This GitHub documents the computational work, experimental methods, and technical foundations of that developing practice.
+## Selected work
 
-01 / Research
+Through **Interfacing Research Laboratory**, I connect research with working software, spatial experiments, and physical tools.
 
-COMPLEX SYSTEMS
-  Cybernetics · Emergence · Systems dynamics
-  Networks · Distributed coordination
-  Institutional and organisational systems
-COMPUTATION & INTELLIGENCE
-  Artificial intelligence · Autonomous agents
-  Knowledge representation · Ontologies
-  World models · Anticipatory systems
-SPACE & TERRITORY
-  Architecture · Urbanisation · Remote sensing
-  GIS · Photogrammetry · Digital twins
-  Territorial and environmental simulation
-INFRASTRUCTURE & ECOLOGY
-  Logistics · Energy systems · Climate adaptation
-  Technological infrastructures · Resource circulation
-  Environmental intelligence
-METHODS & INSTRUMENTS
-  Software engineering · Computational design
-  Simulation · Robotic fabrication
-  Experimental interfaces · Visualisation
+| Project | What it explores |
+| --- | --- |
+| [Proximity](https://proximity.interfacingresearchlaboratory.com/en) | Organisational intelligence: connecting work, evidence, decisions, and agents. |
+| [PLAYground](https://www.irlplayground.com/en-us) | Early-years learning through AI, classroom observation, and physical learning objects. |
+| [.mdly](https://mdly.interfacingresearchlaboratory.com/) | Rich-text and Markdown editor foundations for IRL products. |
+| [Sensorium.Zone](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) | Sensing, cognition, simulation, and digital twins. |
+| [Choke Points — The Warm War](https://www.karlherdersch.com/projects/main/choke-points) | Logistics, geopolitics, and territorial dependencies through geospatial research. |
+| [Models of Abandonment](https://www.karlherdersch.com/projects/main/models-of-abandonment) | The relationships between finance, architecture, infrastructure, and abandonment. |
 
-These interests are connected by a central question: how can we develop better ways of observing, understanding, and intervening in systems whose behaviour cannot be reduced to their individual components?
+## Tools & methods
 
-02 / Current investigations
+```text
+Languages     Python / TypeScript / Swift / C++
+Software      React / Next.js / Node.js / Electron
+Data          PostgreSQL / Convex / Drizzle / Knowledge graphs
+Spatial       GIS / Remote sensing / Three.js / Rhino / Grasshopper
+Physical      Robotic fabrication / Material experiments / Interfaces
+```
 
-Much of my current engineering work concerns computational representations of complex, changing environments.
+## Open code
 
-I am developing systems that connect heterogeneous information, maintain contextual and historical relationships, and support intelligent coordination across people, software, and physical environments.
+- [Remote Sensing Datasets](https://github.com/interfacingresearchlaboratory/remote-sensing) — geospatial analysis and environmental observation.
+- [Archive Mosh](https://github.com/interfacingresearchlaboratory/archive-mosh) — procedural video collages from archival footage.
 
-This involves:
+```text
+ Observe --> Research --> Model --> Build --> Test
+    ^                                         |
+    '-----------------------------------------'
+```
 
-* Knowledge architectures: ontologies, semantic systems, knowledge graphs, provenance, and temporal representations.
-* Autonomous systems: agent coordination, contextual reasoning, distributed intelligence, and adaptive software.
-* Spatial intelligence: geospatial analysis, environmental observation, remote sensing, and spatial interfaces.
-* Simulation and anticipation: computational models of evolving environments, dependencies, and possible future states.
-* Human-machine systems: interfaces and instruments through which complex information can be explored, interpreted, and acted upon.
-
-The broader investigation concerns the development of computational systems capable of maintaining useful representations of their environments while remaining sensitive to uncertainty, history, and change.
-
-03 / Selected work
-
-Interfacing Research Laboratory
-
-An interdisciplinary research and design practice investigating relationships between technological systems, spatial environments, and human organisation.
-
-Its work combines theoretical inquiry, computational research, architectural thinking, and experimental development.
-
-Proximity
-
-Knowledge systems / Organisational intelligence / Applied AI
-
-Research and software development concerned with the representation and coordination of complex organisational environments.
-
-The platform connects operational activity, institutional knowledge, resources, decisions, and relationships within a structured computational environment.
-
-Current development investigates semantic architectures, temporal knowledge systems, autonomous agents, and organisational world-state modelling.
-
-Sensorium.Zone
-
-Simulation / Cognition / Digital twins
-
-An interdisciplinary research programme developed through the Architectural Association, investigating sensing, simulation, and the computational representation of complex environments.
-
-The research examines how technological systems mediate perception, construct models of reality, and influence decision-making across architectural, urban, and planetary scales.
-
-Choke Points — The Warm War
-
-Logistics / Geopolitics / Territorial systems
-
-Research into global logistical infrastructures, territorial dependencies, and the political and environmental consequences of technological networks.
-
-Combines geospatial investigation, remote sensing, and systems analysis to examine the relationships between material circulation, extraction, technological power, and environmental transformation.
-
-Pivoting the Pearl
-
-Territorial simulation / Urbanisation / Ecology
-
-Research into the Pearl River Delta as an interconnected territorial system.
-
-Examines ecological transitions, urban development, infrastructure, and the potential of computational models to inform environmental and spatial planning.
-
-Models of Abandonment
-
-Architecture / Finance / Infrastructure
-
-An investigation into the relationship between financial systems, architectural production, infrastructural development, and processes of spatial abandonment.
-
-PLAYground
-
-Embodied intelligence / Material systems / Learning
-
-Research and product development exploring the relationship between artificial intelligence, embodied learning, physical objects, and material environments.
-
-Includes experimental learning systems, ecological materials, and computational approaches to situated observation and interpretation.
-
-04 / Computational and physical methods
-
-My technical practice draws on software engineering, spatial computation, simulation, and experimental fabrication.
-
-PROGRAMMING
-  Python / TypeScript / Swift / C++
-SOFTWARE & SYSTEMS
-  React / Next.js / Node.js / Electron
-  PostgreSQL / Convex / Drizzle
-INTELLIGENCE & KNOWLEDGE
-  Applied AI / Agent architectures
-  Semantic modelling / Knowledge graphs
-  Temporal systems / Distributed coordination
-SPATIAL COMPUTATION
-  GIS / Remote sensing / Photogrammetry
-  Three.js / Rhino / Grasshopper
-  Unreal Engine / Spatial simulation
-DESIGN & FABRICATION
-  Computational design / Robotic systems
-  Material experimentation / Physical interfaces
-
-The emphasis is on developing methods and instruments appropriate to the systems being investigated, rather than working within a single technical discipline.
-
-05 / Open research and code
-
-Remote Sensing Datasets
-
-Code and experimental methods associated with geospatial analysis, environmental observation, and remote-sensing research.
-
-Archive Mosh
-
-Python-based experiments in procedural video composition and the transformation of archival footage.
-
-Other technical work is developed within ongoing research programmes and commercial projects.
-
-06 / Research through construction
-
-My approach combines theoretical investigation with the construction of computational and physical systems.
-
-Research provides questions and conceptual frameworks. Engineering and design provide methods of testing, extending, and sometimes challenging those frameworks.
-
-           OBSERVATION
-                |
-                v
-             RESEARCH
-                |
-                v
-         MODELS & METHODS
-                |
-                v
-           INSTRUMENTS
-                |
-                v
-           APPLICATION
-                |
-                v
-       CRITIQUE & PUBLICATION
-                |
-                +------> OBSERVATION
-
-I am interested in developing a practice in which scientific inquiry, technical experimentation, architecture, and cultural production inform one another.
-
-The intention is not to establish a single methodology applicable to every problem, but to develop the capacity to move between different forms of knowledge, scales of analysis, and modes of intervention.
-
-This is an evolving body of work. Its present technical projects are part of a longer-term effort to establish an independent research and design practice with its own instruments, methods, publications, and programmes of inquiry.
-
-⸻
-
-Karl Herdersch
-London, United Kingdom
-
-Research & selected work · Interfacing Research Laboratory
+Research supplies the questions. Building systems puts them to the test.
