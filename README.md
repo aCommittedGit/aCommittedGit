@@ -4,6 +4,9 @@
  |  Research / Computation / Architecture / Design / AI     |
  |  Complex systems for everyday life                       |
  '----------------------------------------------------------'
+       Observe --> Research --> Model --> Build --> Test
+           ^                                         |
+           '-----------------------------------------'
 ```
 # Karl Herdersch
 
@@ -12,12 +15,6 @@ London, UK · [Personal website](https://www.karlherdersch.com/)
 I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research.
 
 At [Ironbridge](https://ironbridge.tech/), I build AI platforms and workflows that connect company knowledge, models, and data for everyday businesses.
-
-```text
- Observe --> Research --> Model --> Build --> Test
-    ^                                         |
-    '-----------------------------------------'
-```
 
 ## Current focus
 
