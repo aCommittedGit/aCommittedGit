@@ -42,8 +42,8 @@ Through **[Interfacing Research Laboratory](https://www.interfacingresearchlabor
 Languages     Python / TypeScript / Swift / C++
 Software      React / Next.js / Node.js / Electron
 Data          PostgreSQL / Convex / Drizzle / Knowledge graphs
-Spatial       GIS / Remote sensing / Three.js / Rhino / Grasshopper
-Physical      Robotic fabrication / Material experiments / Interfaces
+Spatial       GIS / Remote sensing / Three.js / Rhino / Grasshopper / Revit / Maya / Unreal / Unity  
+Physical      Robotic fabrication / Material experiments / Interfaces (including buildings)
 ```
 
 ## Open code
