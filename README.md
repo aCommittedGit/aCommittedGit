@@ -1,13 +1,10 @@
-**Complex systems · Applied AI · Knowledge architectures · Spatial computing · Design**
-
 ```text
  .----------------------------------------------------------.
- |  A COMMITTED GIT / KH                                     |
- |  Research / Computation / Architecture / Design           |
+ |  A COMMITTED GIT / KH                                    |
+ |  Research / Computation / Architecture / Design / AI     |
  |  Complex systems for everyday life                       |
  '----------------------------------------------------------'
 ```
-
 # Karl Herdersch
 
 London, UK · [Personal website](https://www.karlherdersch.com/) 
@@ -15,6 +12,12 @@ London, UK · [Personal website](https://www.karlherdersch.com/)
 I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research.
 
 At [Ironbridge](https://ironbridge.tech/), I build AI platforms and workflows that connect company knowledge, models, and data for everyday businesses.
+
+```text
+ Observe --> Research --> Model --> Build --> Test
+    ^                                         |
+    '-----------------------------------------'
+```
 
 ## Current focus
 
@@ -50,11 +53,5 @@ Physical      Robotic fabrication / Material experiments / Interfaces
 
 - [Remote Sensing Datasets](https://github.com/interfacingresearchlaboratory/remote-sensing) — geospatial analysis and environmental observation.
 - [Archive Mosh](https://github.com/interfacingresearchlaboratory/archive-mosh) — procedural video collages from archival footage.
-
-```text
- Observe --> Research --> Model --> Build --> Test
-    ^                                         |
-    '-----------------------------------------'
-```
 
 Research supplies the questions. Building systems puts them to the test.
