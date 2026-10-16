@@ -32,7 +32,6 @@ Through **[Interfacing Research Laboratory](https://www.interfacingresearchlabor
 | --- | --- |
 | [Proximity](https://proximity.interfacingresearchlaboratory.com/en) | Organisational intelligence: connecting work, evidence, decisions, and agents. |
 | [PLAYground](https://www.irlplayground.com/en-us) | Early-years learning through AI, classroom observation, and physical learning objects. |
-| [.mdly](https://mdly.interfacingresearchlaboratory.com/) | Rich-text and Markdown editor foundations for IRL products. |
 | [Sensorium.Zone](https://www.interfacingresearchlaboratory.com/work/sensorium-think-tank) | Sensing, cognition, simulation, and digital twins. |
 | [Choke Points — The Warm War](https://www.karlherdersch.com/projects/main/choke-points) | Logistics, geopolitics, and territorial dependencies through geospatial research. |
 | [Models of Abandonment](https://www.karlherdersch.com/projects/main/models-of-abandonment) | The relationships between finance, architecture, infrastructure, and abandonment. |
