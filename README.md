@@ -10,7 +10,7 @@
 
 # Karl Herdersch
 
-London, UK · [Personal website](https://www.karlherdersch.com/) · [Interfacing Research Laboratory](https://www.interfacingresearchlaboratory.com/)
+London, UK · [Personal website](https://www.karlherdersch.com/) 
 
 I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research.
 
@@ -26,7 +26,7 @@ The connecting question: how can we make complex environments easier to understa
 
 ## Selected work
 
-Through **Interfacing Research Laboratory**, I connect research with working software, spatial experiments, and physical tools.
+Through **[Interfacing Research Laboratory](https://www.interfacingresearchlaboratory.com/)**, I connect research with working software, spatial experiments, and physical tools.
 
 | Project | What it explores |
 | --- | --- |
