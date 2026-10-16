@@ -4,9 +4,9 @@
  |  Research / Computation / Architecture / Design / AI     |
  |  Complex systems for everyday life                       |
  '----------------------------------------------------------'
-       Observe --> Research --> Model --> Build --> Test
-           ^                                         |
-           '-----------------------------------------'
+      Observe --> Research --> Model --> Build --> Test
+         ^                                         |
+         '-----------------------------------------'
 ```
 # Karl Herdersch
 
