@@ -2,7 +2,7 @@
  .----------------------------------------------------------.
  |  A COMMITTED GIT / KH                                    |
  |  Research / Computation / Architecture / Design / AI     |
- |  Complex systems for everyday life                       |
+ |  Complex systems for new technological imaginaries       |
  '----------------------------------------------------------'
       Observe --> Research --> Model --> Build --> Test
          ^                                         |
