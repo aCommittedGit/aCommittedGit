@@ -37,13 +37,14 @@ Through **[Interfacing Research Laboratory](https://www.interfacingresearchlabor
 | [Models of Abandonment](https://www.karlherdersch.com/projects/main/models-of-abandonment) | The relationships between finance, architecture, infrastructure, and abandonment. |
 
 ## Tools & methods
-
 ```text
-Languages     Python / TypeScript / Swift / C++
-Software      React / Next.js / Node.js / Electron
-Data          PostgreSQL / Convex / Drizzle / Knowledge graphs
-Spatial       GIS / Remote sensing / Three.js / Rhino / Grasshopper / Revit / Maya / Unreal / Unity  
-Physical      Robotic fabrication / Material experiments / Interfaces (including buildings)
+Languages       Python / TypeScript / Swift / C++ / SQL / Elixir / Rust
+Software        React / Next.js / Node.js / Electron / FastAPI / Vite / Design systems
+AI & Agents     Agent orchestration / MCP / Codex / Claude Code / Model gateways / LLM evals
+Data            PostgreSQL / Convex / Drizzle / pgvector / PostGIS / Ontology modelling / Knowledge graphs / RDF & SHACL / GraphRAG / Document ingestion / Claim extraction / Provenance / Permission-aware retrieval
+Infrastructure  AWS / Amazon Bedrock / Docker / OpenTofu / Ansible / GitHub Actions / WorkOS
+Spatial         GIS / Remote sensing / GeoJSON / MapLibre GL / Three.js / WebGL / Rhino / Grasshopper / Revit / Maya / Unreal / Unity
+Physical        Robotic fabrication / Material experiments / MediaPipe gesture interfaces / Physical interfaces (including buildings)
 ```
 
 ## Open code
