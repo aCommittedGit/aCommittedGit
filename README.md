@@ -37,36 +37,15 @@ Through **[Interfacing Research Laboratory](https://www.interfacingresearchlabor
 | [Models of Abandonment](https://www.karlherdersch.com/projects/main/models-of-abandonment) | The relationships between finance, architecture, infrastructure, and abandonment. |
 
 ## Tools & methods
-```mermaid
-flowchart LR
-    Stack["Technology & practice"]
-
-    Stack --> Languages["Languages"]
-    Languages --> Lang["Python · TypeScript · Swift · C++<br/>SQL · Elixir · Rust"]
-
-    Stack --> Software["Software"]
-    Software --> Web["React · Next.js · Node.js · Electron<br/>FastAPI · Vite · Design systems"]
-
-    Stack --> AI["AI & Agents"]
-    AI --> Agents["Agent orchestration · MCP<br/>Model gateways · LLM evaluation"]
-
-    Stack --> Data["Data"]
-    Data --> Storage["PostgreSQL · Convex · Drizzle<br/>pgvector · PostGIS"]
-    Data --> Knowledge["Ontology modelling · Knowledge graphs<br/>RDF & SHACL · GraphRAG"]
-    Data --> Pipelines["Document ingestion · Claim extraction<br/>Provenance · Permission-aware retrieval"]
-
-    Stack --> Infra["Infrastructure"]
-    Infra --> Cloud["AWS · Amazon Bedrock · Docker<br/>OpenTofu · Ansible · GitHub Actions · WorkOS"]
-
-    Stack --> Spatial["Spatial"]
-    Spatial --> Maps["GIS · Remote sensing · GeoJSON · MapLibre GL"]
-    Spatial --> Graphics["Three.js · WebGL · Unreal Engine · Unity"]
-    Spatial --> Modelling["Rhino · Grasshopper · Revit · Maya"]
-
-    Stack --> Physical["Physical"]
-    Physical --> Making["Robotic fabrication · Material experiments"]
-    Physical --> Interfaces["MediaPipe gesture interfaces<br/>Physical interfaces, including buildings"]
-```
+| Category | Technologies and practices |
+| --- | --- |
+| Languages | Python / TypeScript / Swift / C++ / SQL / Elixir / Rust |
+| Software | React / Next.js / Node.js / Electron / FastAPI / Vite / Design systems |
+| AI & Agents | Agent orchestration / MCP / Model gateways / LLM evaluation |
+| Data | PostgreSQL / Convex / Drizzle / pgvector / PostGIS / Ontology modelling / Knowledge graphs / RDF & SHACL / GraphRAG / Document ingestion / Claim extraction / Provenance / Permission-aware retrieval |
+| Infrastructure | AWS / Amazon Bedrock / Docker / OpenTofu / Ansible / GitHub Actions / WorkOS |
+| Spatial | GIS / Remote sensing / GeoJSON / MapLibre GL / Three.js / WebGL / Rhino / Grasshopper / Revit / Maya / Unreal Engine / Unity |
+| Physical | Robotic fabrication / Material experiments / MediaPipe gesture interfaces / Physical interfaces (including buildings) |
 
 ## Open code
 
