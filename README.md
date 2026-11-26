@@ -12,7 +12,7 @@
 
 London, UK · [Personal website](https://www.karlherdersch.com/) 
 
-I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research.
+I build computational and physical tools for understanding complex systems, from company knowledge and autonomous agents to buildings, cities, and infrastructure. My work connects software engineering, architecture, and experimental research for co-operation and intelligence.
 
 At [Ironbridge](https://ironbridge.tech/), I build AI platforms and workflows that connect company knowledge, models, and data for everyday businesses.
 
